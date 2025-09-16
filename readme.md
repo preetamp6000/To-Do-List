@@ -6,11 +6,10 @@ Perfect for portfolio or quick practice.🙌
 
 
 ## 🔥 Features
-- Add new tasks (title + optional description)
-- Remove single tasks
+- Add new tasks
+- Remove tasks
 - Mark tasks **Complete / Incomplete**
-- Filter / browse tasks: **All / Active / Completed**
-- Clear all completed tasks
+- Clear completed tasks
 - Persistent storage using `localStorage` (data stays after refresh)
 
 
